@@ -1,0 +1,4 @@
+Cell Type: rad51
+Rad Type: Deep Space
+Sim Dim: 300microns
+NumGen: 15ROS model: Complex ROS
